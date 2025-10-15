@@ -18,6 +18,8 @@ const itDepartmentTabs = [
   { name: "ITSA", path: "/academics/information-technology/itsa" },
   { name: "IT Training Placement", path: "/academics/information-technology/training-placement" },
   { name: "IT Vision Mission", path: "/academics/information-technology/vision-mission" },
+  { name: "IT Consultancy", path: "/academics/information-technology/consultancy" },
+  { name: "IT Departmental Committees", path: "/academics/information-technology/departmental-committees" },
 ];
 
 // Import the itLaboratories data to find individual lab details
