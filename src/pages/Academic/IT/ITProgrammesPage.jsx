@@ -146,3 +146,20 @@
     </div>
   </div>
 </div>
+// Navigation tabs for the Information Technology department
+const itDepartmentTabs = [
+  { name: "Faculty Detail", path: "/academics/information-technology/faculty-detail" },
+  { name: "Faculty Profile", path: "/academics/information-technology/faculty-profile" },
+  { name: "Information Technology", path: "/academics/information-technology" },
+  { name: "IT Achievements", path: "/academics/information-technology/achievements" },
+  { name: "IT Curriculum", path: "/academics/information-technology/curriculum" },
+  { name: "IT Departmental Activity", path: "/academics/information-technology/departmental-activity" },
+  { name: "IT Laboratory Detail", path: "/academics/information-technology/laboratory-detail" },
+  { name: "IT Laboratory", path: "/academics/information-technology/laboratory" },
+  { name: "IT Profile", path: "/academics/information-technology/profile" },
+  { name: "IT Programmes", path: "/academics/information-technology/programmes" },
+  { name: "IT Research Publication", path: "/academics/information-technology/research-publication" },
+  { name: "ITSA", path: "/academics/information-technology/itsa" },
+  { name: "IT Training Placement", path: "/academics/information-technology/training-placement" },
+  { name: "IT Vision Mission", path: "/academics/information-technology/vision-mission" },
+];
